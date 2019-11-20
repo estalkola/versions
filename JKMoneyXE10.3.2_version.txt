@@ -28,3 +28,4 @@
 -- ShowMeTheMoneyAll, ShowMeTheListAll 의 SQL문에서 현대카드의 마지막 결제일인 13일로 변경 (endDay -> endDayHyunDai)
 -- SQL에서 JMoneyExamples.txt 파일 불러오기
 -- Folder 열기를 절대패스를 구해와서 열기
+-- Calc.exe 추가
