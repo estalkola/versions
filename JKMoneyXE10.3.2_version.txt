@@ -29,3 +29,5 @@
 -- SQL에서 JMoneyExamples.txt 파일 불러오기
 -- Folder 열기를 절대패스를 구해와서 열기
 -- Calc.exe 추가
+-- SQL 에서 수입, 지출에서 년도별 또는 전체의 sum, avg, min, max 를 구함.
+-- SQL 에서 DBGrid column 자동조절
